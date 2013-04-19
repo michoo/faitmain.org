@@ -7,7 +7,7 @@ Faire de la peinture sans support et sans tâche, avec de la lumière
 :author: Fabien Batteix
 
 
-C'est un fait tout le monde aiment les spectacles de son et lumière, qu'on soit
+C'est un fait tout le monde aime les spectacles de son et lumière, qu'on soit
 petit ou grand. Alors si comme moi vous aimez bricoler, photographier et
 programmer l'article qui suit devrait vous intéresser ;)
 
@@ -183,7 +183,7 @@ Derniers détails techniques
 
 Tenir un ruban de leds (flexible) droit, à la main, n'est pas une chose facile
 … Si en plus il faut manipuler le contrôleur pour choisir quelle image dessiner
-cela deviens impossible ... à moins d'avoir trois bras.
+cela devient impossible ... à moins d'avoir trois bras.
 
 .. figure:: light/scotch.JPG
 
